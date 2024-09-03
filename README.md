@@ -40,11 +40,5 @@ Variables in the dataset [ua.base](./ml-100k/ua.base) and [ua.test](./ml-100k/ua
     * Training the model
     * Perform Batch Inference
     * Perform Real-Time Inference
-    
-    
-2. [Recommendation-Machine-tuning-Explicit.ipynb](Recommendation-Machine-tuning-Explicit.ipynb)
-    * Prerequisites and Preprocessing
-    * Perform Hyperparameter Tuning of the Model
-    * Perform Batch Inference with the best Model
   
 Copyright : https://github.com/netrix-emea/-aws-sagemaker-builtin-notebooks
