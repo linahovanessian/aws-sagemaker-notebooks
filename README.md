@@ -46,3 +46,5 @@ Variables in the dataset [ua.base](./ml-100k/ua.base) and [ua.test](./ml-100k/ua
     * Prerequisites and Preprocessing
     * Perform Hyperparameter Tuning of the Model
     * Perform Batch Inference with the best Model
+  
+Copyright : https://github.com/netrix-emea/-aws-sagemaker-builtin-notebooks
